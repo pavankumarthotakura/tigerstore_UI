@@ -1,0 +1,23 @@
+ant-tooltip {
+    display: none !important;
+}
+
+.ant-tooltip-placement-top {
+    display: none !important;
+    color: rgb(251, 246, 246);
+    background-color: #fefefe
+}  
+
+.date-icon {
+   display: flex;
+   flex-direction: row-reverse;
+}
+
+.boader-box {
+    border: 1px black;
+}
+
+.page-style {
+    background-color: white; 
+    float: right;
+}
